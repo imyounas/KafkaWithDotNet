@@ -1,4 +1,4 @@
-# KafkaDotNetTest
+# Apache Kafka C#.NET Test
 
 ### C#.NET Producer & Consumer for Apache Kafka using 
 - Apache Kafka cp-kafka:7.5.0 with docker compose
